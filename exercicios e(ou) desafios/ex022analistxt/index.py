@@ -1,0 +1,5 @@
+nome = str(input(print('Insira seu nome: ')))
+nomeup = nome.upper()
+nomelow = nome.lower()
+print(f'Seu nome em maisculas é {nomeup}')
+print(f'Seu nome em minusculas é {nomelow}')
